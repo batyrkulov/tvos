@@ -1,13 +1,12 @@
-First, create Apple TV and android TV simulators using xcode and android studio.
+# First, create Apple TV and android TV simulators using xcode and android studio.
 
-Open the created simulators.
-
-
+# Open the created simulators.
 
 
 
-Commands to run the app:
+# Commands to run the app:
 
+```bash
 yarn
 
 cd ios
@@ -17,21 +16,23 @@ pod install
 cd ..
 
 yarn start
+```
 
 
-- and then on a new terminal window run:
+# and then on a new terminal window run:
 
+```bash
 yarn android
+```
 
 
 
+# To run on Apple TV simulator use Xcode.
 
-To run on Apple TV simulator use Xcode.
+# Open Xcode
 
-Open Xcode
+# Open ios/TVTest.xcworkspace
 
-Open ios/TVTest.xcworkspace
+# Select an Apple TV simulator from the simulator list
 
-Select an Apple TV simulator from the simulator list
-
-Click the Build / Run button in Xcode
+# Click the Build / Run button in Xcode
