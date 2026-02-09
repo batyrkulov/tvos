@@ -13,7 +13,11 @@ yarn start
 yarn android
 
 To run on Apple TV simulator use Xcode.
+
 Open Xcode
+
 Open ios/TVTest.xcworkspace
+
 Select an Apple TV simulator from the simulator list
-Click the Build button in Xcode
+
+Click the Build / Run button in Xcode
