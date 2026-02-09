@@ -35,4 +35,4 @@ yarn android
 
 # Select an Apple TV simulator from the simulator list
 
-# Click the Build / Run button in Xcode
+# Click the Build button in Xcode
